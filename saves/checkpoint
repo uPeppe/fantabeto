@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelb_gk"
+all_model_checkpoint_paths: "modelb_gk"

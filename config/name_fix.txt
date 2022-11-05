@@ -1,0 +1,12 @@
+FROM,TO,TEAM
+stigard,Ostigard,Napoli
+Min-jae,Kim,Napoli
+Hjlund,Hojlund,Atalanta
+Gytkjr,Gytkjaer,Monza
+Carlos,Augusto,Monza
+Mhle,Maehle,Atalanta
+Kjr,Kjaer,Milan
+uricic,Djuricic,Sampdoria
+uric,Djuric,Hellas Verona
+Arthur,Cabral,Fiorentina
+Martinez,Alvarez,Sassuolo
