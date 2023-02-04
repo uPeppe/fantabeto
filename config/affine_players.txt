@@ -1,11 +1,7 @@
 player,alike
-Doig,Lazovic
-Origi,Rebic
 Fagioli,Henderson L.
-Di Maria,Chiesa
-Ranocchia F.,Henderson L.
-Piccoli,Lasagna
 Alvarez A.,Raspadori
 Ballo-Toure',Calabria
-Ferguson,Svanberg
-Bijol,Rodrigo Becao
+Thauvin,Deulofeu
+Llorente D.,Ibanez
+Troost-Ekong,Fazio
