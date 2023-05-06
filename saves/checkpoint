@@ -1,2 +1,2 @@
-model_checkpoint_path: "modelb_gk"
-all_model_checkpoint_paths: "modelb_gk"
+model_checkpoint_path: "modelb"
+all_model_checkpoint_paths: "modelb"
