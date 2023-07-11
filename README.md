@@ -4,6 +4,8 @@ Fantacalcio Bayesian Estimated Team's Outcome
 
 <i>Machine learning model for predicting Serie A players performance in a match, in terms of Fantacalcio (italian fantasy football) scores.</i>
 
+https://pub.towardsai.net/how-i-won-at-italian-fantasy-football-fantacalcio-using-machine-learning-ce8fc3fdcaef
+
 The aim of this project is to predict Fantacalcio (Serie A fantasy football) player performances (vote and fantavote, respectively their match rating and that summed to the bonus/malus given by goals, assists and cards), using players and teams data from http://fantacalcio.it and http://fbref.com.
 
 "outputs" folder contains predictions for the next Serie A matchdays, and an excel file for analysis. A list of players can be inserted to help selecting an optimal line-up.
