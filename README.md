@@ -10,6 +10,8 @@ The aim of this project is to predict Fantacalcio (Serie A fantasy football) pla
 
 "outputs" folder contains predictions for the next Serie A matchdays, and an excel file for analysis. A list of players can be inserted to help selecting an optimal line-up.
 
+The code has been adapted for Serie-A season 2023/2024, updating the statistics database and taking into account the stats from other leagues, for the players who are at their first season in Serie A (see rookies stats folder).
+
 ![png](README_files/team_predictions.png)
 
 Two neural network models are trained for predicting vote and fantavote for outfield players and goalkeepers, for which the clean sheet probability is also an output. 
